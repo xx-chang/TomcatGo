@@ -54,6 +54,7 @@
       <artifactId>mybatis</artifactId>
       <version>${mybatis.version}</version>
     </dependency>
+
     <!-- mysql 连接 -->
     <dependency>
       <groupId>mysql</groupId>
